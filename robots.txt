@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /about/*
 
-Sitemap: https://dziennik-tradera.github.io/sitemap.xml
+Sitemap: https://speculant.wtf/sitemap.xml
