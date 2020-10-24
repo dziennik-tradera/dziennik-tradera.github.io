@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+Disallow: /about/*
+
+Sitemap: https://speculant.wtf/sitemap.xml
